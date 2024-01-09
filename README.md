@@ -20,7 +20,7 @@ The API has 1 route and 2 ways to utilize them
 - MySQL
 - npm and React.js
 
-## Environement Variables
+## Environment Variables
 There are two separate .env files: one for the Google authentication on the frontend and one for the database login on the backend: 
 
 Frontend variables: 
